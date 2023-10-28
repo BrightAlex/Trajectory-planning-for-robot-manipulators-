@@ -58,9 +58,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 ```
 
-![FrankaEmikaPanda_square_Minimum-Jerk_JointTraj](./assets/FrankaEmikaPanda_square_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/FrankaEmikaPanda_square_Minimum-Jerk_JointTraj.jpg)
 
-![FrankaEmikaPanda_square_Minimum-Jerk](./assets/FrankaEmikaPanda_square_Minimum-Jerk.gif)
+![image](./assets/FrankaEmikaPanda_square_Minimum-Jerk.gif)
 
 #### fish
 
