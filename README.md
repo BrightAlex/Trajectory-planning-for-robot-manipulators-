@@ -58,9 +58,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 ```
 
-![FrankaEmikaPanda_square_Minimum-Jerk_JointTraj](./assets/FrankaEmikaPanda_square_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/FrankaEmikaPanda_square_Minimum-Jerk_JointTraj.jpg)
 
-![FrankaEmikaPanda_square_Minimum-Jerk](./assets/FrankaEmikaPanda_square_Minimum-Jerk.gif)
+![image](./assets/FrankaEmikaPanda_square_Minimum-Jerk.gif)
 
 #### fish
 
@@ -82,9 +82,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 ```
 
-![FrankaEmikaPanda_fish_Minimum-Jerk_JointTraj](./assets/FrankaEmikaPanda_fish_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/FrankaEmikaPanda_fish_Minimum-Jerk_JointTraj.jpg)
 
-![FrankaEmikaPanda_fish_Minimum-Jerk](./assets/FrankaEmikaPanda_fish_Minimum-Jerk.gif)
+![image](./assets/FrankaEmikaPanda_fish_Minimum-Jerk.gif)
 
 #### rose
 
@@ -106,7 +106,7 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 ```
 
-![FrankaEmikaPanda_rose_Minimum-Jerk_JointTraj](./assets/FrankaEmikaPanda_rose_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/FrankaEmikaPanda_rose_Minimum-Jerk_JointTraj.jpg)
 
 ![FrankaEmikaPanda_rose_Minimum-Jerk](./assets/FrankaEmikaPanda_rose_Minimum-Jerk.gif)
 
@@ -130,9 +130,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 ```
 
-![FrankaEmikaPanda_infinity_Minimum-Jerk_JointTraj](./assets/FrankaEmikaPanda_infinity_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/FrankaEmikaPanda_infinity_Minimum-Jerk_JointTraj.jpg)
 
-![FrankaEmikaPanda_infinity_Minimum-Jerk](./assets/FrankaEmikaPanda_infinity_Minimum-Jerk.gif)
+![image](./assets/FrankaEmikaPanda_infinity_Minimum-Jerk.gif)
 
 ### rethinkSawyer
 
@@ -156,9 +156,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_sawyer = [0 0 -pi/3 0 pi/3 0 pi/2 0]';
 ```
 
-![rethinkSawyer_square_Minimum-Jerk_JointTraj](./assets/rethinkSawyer_square_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/rethinkSawyer_square_Minimum-Jerk_JointTraj.jpg)
 
-![rethinkSawyer_square_Minimum-Jerk](./assets/rethinkSawyer_square_Minimum-Jerk.gif)
+![image](./assets/rethinkSawyer_square_Minimum-Jerk.gif)
 
 #### fish
 
@@ -180,9 +180,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_sawyer = [0 0 -pi/3 0 pi/3 0 pi/2 0]';
 ```
 
-![rethinkSawyer_fish_Minimum-Jerk_JointTraj](./assets/rethinkSawyer_fish_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/rethinkSawyer_fish_Minimum-Jerk_JointTraj.jpg)
 
-![rethinkSawyer_fish_Minimum-Jerk](./assets/rethinkSawyer_fish_Minimum-Jerk.gif)
+![image](./assets/rethinkSawyer_fish_Minimum-Jerk.gif)
 
 #### rose
 
@@ -204,9 +204,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_sawyer = [0 0 -pi/3 0 pi/3 0 pi/2 0]';
 ```
 
-![rethinkSawyer_rose_Minimum-Jerk_JointTraj](./assets/rethinkSawyer_rose_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/rethinkSawyer_rose_Minimum-Jerk_JointTraj.jpg)
 
-![rethinkSawyer_rose_Minimum-Jerk](./assets/rethinkSawyer_rose_Minimum-Jerk.gif)
+![image](./assets/rethinkSawyer_rose_Minimum-Jerk.gif)
 
 #### infinity
 
@@ -228,9 +228,9 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_sawyer = [0 0 -pi/3 0 pi/3 0 pi/2 0]';
 ```
 
-![rethinkSawyer_infinity_Minimum-Jerk_JointTraj](./assets/rethinkSawyer_infinity_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/rethinkSawyer_infinity_Minimum-Jerk_JointTraj.jpg)
 
 
 
-![rethinkSawyer_infinity_Minimum-Jerk](./assets/rethinkSawyer_infinity_Minimum-Jerk.gif)
+![image](./assets/rethinkSawyer_infinity_Minimum-Jerk.gif)
 
