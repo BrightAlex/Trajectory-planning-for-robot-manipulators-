@@ -108,7 +108,7 @@ q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 
 ![image](./assets/FrankaEmikaPanda_rose_Minimum-Jerk_JointTraj.jpg)
 
-![FrankaEmikaPanda_rose_Minimum-Jerk](./assets/FrankaEmikaPanda_rose_Minimum-Jerk.gif)
+![image](./assets/FrankaEmikaPanda_rose_Minimum-Jerk.gif)
 
 ### infinity
 
