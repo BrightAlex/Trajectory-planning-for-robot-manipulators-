@@ -58,7 +58,7 @@ Ts_ani = 0.02; % sampling period of the visulization
 q0_panda = [0 0 0 -pi/2 0 pi/2 0 0 0]';
 ```
 
-![image](https://github.com/BrightAlex/Trajectory-planning-for-robot-manipulators-/blob/main/assets/FrankaEmikaPanda_square_Minimum-Jerk_JointTraj.jpg)
+![image](./assets/FrankaEmikaPanda_square_Minimum-Jerk_JointTraj.jpg)
 
 ![image](https://github.com/BrightAlex/Trajectory-planning-for-robot-manipulators-/blob/main/assets/FrankaEmikaPanda_square_Minimum-Jerk.gif)
 
