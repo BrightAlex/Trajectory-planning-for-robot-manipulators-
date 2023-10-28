@@ -32,7 +32,7 @@ This project achieves trajectory planning of robot manipulators supported by Rob
 * run UnitTest_JointTraj.m to get familiar with and verify the joint trajectories
 * run main.m to generate the joint trajectories and cartesian trajectories at the same time and to see the visualizations.
 
- ## Examplesvisualizationshapesshapes
+ ## Examples
 
 Sometimes the planned trajectories reach beyond the joint limits of the robot manipulators, which makes them not available. The availability of planned trajectories is determined by many aspects including the home configuration of the robot (q0_s), the magnitudes of the shape (radius, n, alpha), the way of the interpolation (interpolation_type), and the choices of sampling rates (Ts_s, Ts_p), the time interval (t_begin, t_end). Here are some examples of parameter setups in main.m and figures of several available planned trajectories.  
 
